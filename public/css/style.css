@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'Helvetica-Roman';
+  src: url('font/HelveticaNeue-Roman.ttf');
+  font-family: 'Helvetica-Md';
+  src: url('font/HelveticaNeue-Md.ttf');
+}
+
+body {
+	font-family: 'Source Sans Pro', 'Helvetica-Roman', Arial, sans-serif;
+	/*background-image: url('images/fancy_deboss.png');
+	background-repeat: repeat repeat;*/
+}
+.hr-border1 {
+	margin: 0;
+	padding: 0;
+	height: 25px;
+	background: black;
+}
+.hr-border2 {
+	margin: 0;
+	padding: 0;
+	height: 10px;
+	background: #eee;
+}
+.ads1 {
+	margin-top: 12px;
+}
+.social-media-links {
+	margin-top: 5%;
+}
+	.media-link {
+		float: left;
+		padding-left: 10px;
+	}
+.property {
+	
+}
+.property-details {
+	margin-top: 5%;
+}
+	.property-name {
+		font-size: 20px;
+	}
+	.property-contact-no {
+
+	}
+	.property-location {
+		margin-top: 15px;
+	}
+	.property-relative-location {
+
+	}

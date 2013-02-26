@@ -1,1 +1,0 @@
-web:	sh www/application/config/web-boot.sh
